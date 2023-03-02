@@ -1,5 +1,7 @@
 # Autism Neuromarker
 
+**Note:** With threshold 10^-1. Red connection = with RMSE greater than threshold. Black connections = with RMSE less than threshold.
+
 ## ASD
 <img src="P_Network/ASD_Subject_1.png" alt="sub1" width="250"/> <img src="P_Network/ASD_Subject_2.png" alt="sub2" width="250"/> <img src="P_Network/ASD_Subject_3.png" alt="sub3" width="250"/> 
 
